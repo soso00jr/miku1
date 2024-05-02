@@ -15,7 +15,7 @@ global.owner = [
 ];
 
 global.xaxa = 'MIKU'
-global.suittag = [['96899044902', '96876885576'];
+global.suittag = ['96899044902', '96876885576'];
 global.prems = ['96899044902', '96876885576'];
 
 
